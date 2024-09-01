@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "352712079558",
+    "project_id": "quizmaster-28523",
+    "storage_bucket": "quizmaster-28523.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352712079558:android:a05bbfb84871208b577fc7",
+        "android_client_info": {
+          "package_name": "com.example.mcadminiproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBVFW54RazH83dqgd9Vj1z3NfziEnJDg0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
